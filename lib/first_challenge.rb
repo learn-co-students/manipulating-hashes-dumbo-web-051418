@@ -16,11 +16,8 @@ def first_challenge
   contacts.each do |person,data|
     person.each do |johnsnow|
       puts "johnsnow"
-        end
-      end
     end
   end
-
   
   
 
